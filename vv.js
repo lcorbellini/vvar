@@ -1,4 +1,3 @@
 <script>
-alert('aaa');
-
+	alert('aaa');
 </script>
