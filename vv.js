@@ -1,4 +1,2 @@
-	alert('aaa');
 
-
- 
+alert('aaa');
